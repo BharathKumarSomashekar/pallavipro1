@@ -1,0 +1,19 @@
+{
+  "name": "pro1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BharathKumarSomashekar/pallavipro1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BharathKumarSomashekar/pallavipro1/issues"
+  },
+  "homepage": "https://github.com/BharathKumarSomashekar/pallavipro1#readme"
+}
